@@ -1,2 +1,2 @@
-Git is a interesting control system.
+Git is a value control system.
 Git is free software.
